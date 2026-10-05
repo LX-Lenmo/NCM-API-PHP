@@ -1,0 +1,2 @@
+# NCM-API-PHP
+一个以NeteaseCloudMusic API和UneteaseCloudMusic两个项目为基础写的纯PHP网易云API，支持自动解灰，对海外服务器有限制，暂时只支持基础接口
