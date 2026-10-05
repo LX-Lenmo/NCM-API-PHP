@@ -1,4 +1,4 @@
-# XHAI NCM API
+# NCM API PHP
 
 一个用**纯 PHP 写的网易云音乐 API**，单文件、零第三方依赖。
 
